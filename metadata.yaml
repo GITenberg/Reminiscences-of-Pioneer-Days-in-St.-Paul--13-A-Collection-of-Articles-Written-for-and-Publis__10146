@@ -1,0 +1,44 @@
+_repo: Reminiscences-of-Pioneer-Days-in-St.-Paul--13-A-Collection-of-Articles-Written-for-and-Publis__10146
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, Frank
+    birthdate: 1843
+    gutenberg_agent_id: '3330'
+    url: http://www.gutenberg.org/2009/agents/3330
+description: 'Frank Moore, born in 1843, moved to Minnesota from Pennsylvania when
+  he was fifteen years old. Shortly after arriving in St. Paul, Moore was employed
+  by The Minnesotian, a paper owned and managed by his brother, George W. Moore. After
+  a variety of jobs there he rose to become superintendent of the composing room,
+  a position he held for more than forty years. In 1908, he celebrated his fiftieth
+  year with the Pioneer Press, which had merged with and renamed the Minnesotian.
+  Moore recounts life in Minnesota from the late 1850s through the close of the Civil
+  War and the assassination of President Lincoln. He relates anecdotes from the early
+  days of newspapers in St. Paul, especially the competition among the papers to be
+  the first out with the "telegraph" news, and offers a complete account of the 1862
+  Sioux uprising from a settler''s perspective. Moore reminisces on the development
+  of St. Paul as an urban center, with her fire companies and amusement houses [theaters],
+  where, he recalls, Dan Emmett, the composer of the song "Dixie," had a minstrel
+  company in the late 1850s. There is a chapter listing territorial printers and editors
+  of Minnesota. Two other chapters deal with exploits of Minnesota units in Civil
+  War battles: the Second Minnesota Regiment''s conspicuous actions at the battle
+  of Mill Springs, Kentucky, and the First Minnesota battery''s contributions to the
+  Union victory at the Battle of Pittsburg Landing (Shiloh) in Tennessee. One of the
+  last chapters details the reaction of some St. Paulites to the assassination of
+  President Lincoln.'
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Saint Paul (Minn.) -- History'
+- !lcc 'F590.3'
+- !lcsh 'Frontier and pioneer life -- Minnesota'
+- GITenberg
+title: "Reminiscences of Pioneer Days in St. Paul\r\nA Collection of Articles Written\
+  \ for and Published in the Daily Pioneer Press"
+url: http://www.gutenberg.org/ebooks/10146
