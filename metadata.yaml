@@ -1,5 +1,8 @@
 _repo: Reminiscences-of-Pioneer-Days-in-St.-Paul--13-A-Collection-of-Articles-Written-for-and-Publis__10146
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Moore, Frank
@@ -26,6 +29,8 @@ description: 'Frank Moore, born in 1843, moved to Minnesota from Pennsylvania wh
   Union victory at the Battle of Pittsburg Landing (Shiloh) in Tennessee. One of the
   last chapters details the reaction of some St. Paulites to the assassination of
   President Lincoln.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10146#Reminiscences-of-Pioneer-Days-in-St.-Paul--13-A-Collection-of-Articles-Written-for-and-Publis_
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
